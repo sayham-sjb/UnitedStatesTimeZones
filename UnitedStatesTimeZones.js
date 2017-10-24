@@ -1,3 +1,6 @@
+//@author Sayham Chowdhury
+//UnitedStatesTimeZones.css
+
 document.getElementById("outTmZn1").innerHTML = "Hawaii Time_ ";
 document.getElementById("outTmZn3").innerHTML = "Hawaii-Aleutian Time_ ";
 document.getElementById("outTmZn5").innerHTML = "Alaskan Time_ ";
