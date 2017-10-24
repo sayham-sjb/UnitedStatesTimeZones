@@ -1,3 +1,7 @@
+/**
+ * @author Sayham Chowdhury
+ * UnitedStatesTimeZones.css
+ */
 #outTmZn1, #outTmZn2, #outTmZn3, #outTmZn4, #outTmZn5, #outTmZn6, #outTmZn7, #outTmZn8, #outTmZn9, #outTmZn10, #outTmZn11, #outTmZn12, #outTmZn13, #outTmZn14, #outTmZn15, #outTmZn16, #outTmZn17, #outTmZn18, #outTmZn19, #outTmZn20 {font-size:12pt;padding:10px;line-height:200%;}
 #tdTmZn1 {border:1px solid #778899;border-radius:3px;}
 #tdTmZn1:hover {border:1px solid #008080;}
